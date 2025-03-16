@@ -1,0 +1,9 @@
+{
+  "Name_Server": "192.168.1.50\SQL2014",
+  "Name_Data": "PMSTax_2022",
+  "User_ID": "SYSUSER",
+  "Password": "SYSUSER",
+  "CompCode": "1",
+  "UnitID": "2",
+  "NameComp": "PMS_TAX"
+}

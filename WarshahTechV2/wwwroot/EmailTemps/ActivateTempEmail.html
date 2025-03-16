@@ -1,0 +1,57 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OTP</title>
+    <style>
+        .otp-card {
+            padding: 1rem;
+            width: 300px;
+            height: 360px;
+            margin: 3rem auto;
+            border: 1px solid #4a8cc2;
+            border-radius: 5px;
+        }
+
+        .otp-body {
+            text-align: center;
+            color: #4a8cc2;
+            margin-top: 3rem;
+        }
+
+            .otp-body h2 {
+                margin-top: 1rem;
+                margin-bottom: 5px;
+            }
+
+            .otp-body h3 {
+                margin-top: 0;
+            }
+
+            .otp-body .code {
+                color: #F8AC36;
+                margin-top: 2.5rem;
+            }
+    </style>
+</head>
+<body>
+    <div class="otp-card">
+
+        <img src="../Statics/LOGO.svg" alt="logo">
+
+        <div class="otp-body">
+            
+            <img src="../Statics/security.png" alt="password" width="90" height="90">
+            <h2>مرحبا {UserName}</h2>
+            <h3>برجاء استخدام الكود التالي لإتمام عمليتك</h3>
+            <h1 class="code">{Link}</h1>
+        </div>
+
+    </div>
+</body>
+
+</html>
