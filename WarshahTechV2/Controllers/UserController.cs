@@ -88,6 +88,14 @@ namespace Api.Controllers
         }
 
 
+        [HttpGet, Route("GetAllWarshahByTypeParams")]
+        public IActionResult GetWarshahByTypeParams()
+        {
+
+            var warshahs = _uow.WarshahRepository.GetMany(a => a.IsActive == true).ToHashSet();
+            return Ok(warshahs);
+
+        }
         [HttpGet, Route("GetVerfiyCodebyMobile")]
         public IActionResult GetVerfiyCodebyMobile(string mobileno)
         {
@@ -1278,27 +1286,27 @@ namespace Api.Controllers
             return Ok(new { Model = Model, WarshahTypes = WarshahTypes, ServiceTypes = ServiceTypes , CountriesMotor = CountriesMotor });
         }
 
-        [HttpGet,Route("GetWarshahByTypeParams")]
-        public IActionResult GetWarshahByTypeParams(string MotorModel,string warshahType,string ServiceType,string CountryMotor)
+        [HttpGet, Route("GetWarshahByTypeParams")]
+        public IActionResult GetWarshahByTypeParams(string MotorModel, string warshahType, string ServiceType, string CountryMotor)
         {
             var WarshahList = new List<DL.Entities.Warshah>();
 
             if (!string.IsNullOrEmpty(MotorModel))
             {
-               
-                var Warshahs= _uow.WarshahModelCarRepository.GetMany(a => a.MotorModel.ModelNameAr.Contains(MotorModel)).ToHashSet();
+
+                var Warshahs = _uow.WarshahModelCarRepository.GetMany(a => a.MotorModel.ModelNameAr.Contains(MotorModel)).ToHashSet();
                 foreach (var item in Warshahs)
                 {
-                    var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+                    var warshah = _uow.WarshahRepository.GetMany(a => a.Id == item.WarshahId && a.IsActive == true).FirstOrDefault();
                     WarshahList.Add(warshah);
                 }
             }
             if (!string.IsNullOrEmpty(warshahType))
             {
-                var data = _uow.WarshahTypeRepository.GetMany(a => a.WarshahFixedType.NameType==warshahType).ToList();
+                var data = _uow.WarshahTypeRepository.GetMany(a => a.WarshahFixedType.NameType == warshahType).ToList();
                 foreach (var item in data)
                 {
-                    var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+                    var warshah = _uow.WarshahRepository.GetMany(a => a.Id == item.WarshahId && a.IsActive == true).FirstOrDefault();
                     WarshahList.Add(warshah);
 
                 }
@@ -1308,7 +1316,7 @@ namespace Api.Controllers
                 var data = _uow.ServicesWarshahRepository.GetMany(a => a.warshahServiceType.Name == ServiceType).ToList();
                 foreach (var item in data)
                 {
-                    var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+                    var warshah = _uow.WarshahRepository.GetMany(a => a.Id == item.WarshahId && a.IsActive == true).FirstOrDefault();
                     WarshahList.Add(warshah);
 
                 }
@@ -1319,7 +1327,7 @@ namespace Api.Controllers
                 var data = _uow.WarshahCountryMotorRepository.GetMany(a => a.FixedCountryMotor.CountryMotorName == CountryMotor).ToList();
                 foreach (var item in data)
                 {
-                    var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+                    var warshah = _uow.WarshahRepository.GetMany(a => a.Id == item.WarshahId && a.IsActive == true).FirstOrDefault();
                     WarshahList.Add(warshah);
 
                 }
@@ -1330,7 +1338,61 @@ namespace Api.Controllers
             var ClearWarshahList = WarshahList.Distinct();
             return Ok(ClearWarshahList);
         }
-       
+
+
+        //     [HttpGet,Route("GetWarshahByTypeParams")]
+        //public IActionResult GetWarshahByTypeParams(string MotorModel,string warshahType,string ServiceType,string CountryMotor)
+        //{
+        //    var WarshahList = new List<DL.Entities.Warshah>();
+
+        //    if (!string.IsNullOrEmpty(MotorModel))
+        //    {
+
+        //        var Warshahs= _uow.WarshahModelCarRepository.GetMany(a => a.MotorModel.ModelNameAr.Contains(MotorModel)).ToHashSet();
+        //        foreach (var item in Warshahs)
+        //        {
+        //            var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+        //            WarshahList.Add(warshah);
+        //        }
+        //    }
+        //    if (!string.IsNullOrEmpty(warshahType))
+        //    {
+        //        var data = _uow.WarshahTypeRepository.GetMany(a => a.WarshahFixedType.NameType==warshahType).ToList();
+        //        foreach (var item in data)
+        //        {
+        //            var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+        //            WarshahList.Add(warshah);
+
+        //        }
+        //    }
+        //    if (!string.IsNullOrEmpty(ServiceType))
+        //    {
+        //        var data = _uow.ServicesWarshahRepository.GetMany(a => a.warshahServiceType.Name == ServiceType).ToList();
+        //        foreach (var item in data)
+        //        {
+        //            var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+        //            WarshahList.Add(warshah);
+
+        //        }
+
+        //    }
+        //    if (!string.IsNullOrEmpty(CountryMotor))
+        //    {
+        //        var data = _uow.WarshahCountryMotorRepository.GetMany(a => a.FixedCountryMotor.CountryMotorName == CountryMotor).ToList();
+        //        foreach (var item in data)
+        //        {
+        //            var warshah = _uow.WarshahRepository.GetById(item.WarshahId);
+        //            WarshahList.Add(warshah);
+
+        //        }
+
+        //    }
+
+
+        //    var ClearWarshahList = WarshahList.Distinct();
+        //    return Ok(ClearWarshahList);
+        //}
+
         [HttpGet, Route("GetWarshahTypeModelServiceByWarshahId")]
         [ClaimRequirement(ClaimTypes.Role, RoleConstant.Common)]
         public IActionResult GetWarshahTypeModelServiceByWarshahId(int warshahid)

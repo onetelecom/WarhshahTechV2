@@ -230,6 +230,9 @@ namespace BL.Infrastructure
 
         public InstantPartRepository InstantPartRepository => new InstantPartRepository(_ctx);
 
+        public SupportServiceRepository SupportServiceRepository => new SupportServiceRepository(_ctx);
+
+
         public void Dispose()
         {
             _ctx.Dispose();

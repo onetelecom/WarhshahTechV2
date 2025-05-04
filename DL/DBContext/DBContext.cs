@@ -254,6 +254,7 @@ namespace DL.DBContext
         public virtual DbSet<GTaxControl> GTaxControl { get; set; }
 
         public virtual DbSet<InstantPart> InstantParts { get; set; }
+        public virtual DbSet<SupportService> SupportServices { get; set; }
 
 
     }

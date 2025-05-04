@@ -220,6 +220,9 @@ namespace BL.Infrastructure
 
         InstantPartRepository InstantPartRepository { get; }
 
+        SupportServiceRepository SupportServiceRepository { get; }
+
+
         int Save();
       
     }

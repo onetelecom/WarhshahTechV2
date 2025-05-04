@@ -15,6 +15,7 @@ using DL.DTOs.Sales;
 using DL.DTOs.SparePartsDTOs;
 using DL.DTOs.SubscribtionDTOs;
 using DL.DTOs.SuppliersDTOs;
+using DL.DTOs.SupportServiceDTO;
 using DL.DTOs.TransactionsDTO;
 using DL.DTOs.UserDTOs;
 using DL.DTOs.WorkType;
@@ -233,6 +234,10 @@ namespace DL.Mapping
 
             CreateMap<InstantPart, InstantPartDTO>(MemberList.Source).ReverseMap();
             CreateMap<InstantPart, EditInstantPartDTO>(MemberList.Source).ReverseMap();
+
+            CreateMap<SupportService, SupportServiceDTO>(MemberList.Source).ReverseMap();
+            CreateMap<SupportService, EditSupportServiceDTO>(MemberList.Source).ReverseMap();
+
         }
     }
 }
