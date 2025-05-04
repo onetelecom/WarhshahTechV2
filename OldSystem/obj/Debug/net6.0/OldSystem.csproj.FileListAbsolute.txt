@@ -1,0 +1,57 @@
+E:\OneT Projects\OldSystem\bin\Debug\net6.0\OldSystem.deps.json
+E:\OneT Projects\OldSystem\bin\Debug\net6.0\OldSystem.runtimeconfig.json
+E:\OneT Projects\OldSystem\bin\Debug\net6.0\OldSystem.dll
+E:\OneT Projects\OldSystem\bin\Debug\net6.0\OldSystem.pdb
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.csproj.AssemblyReference.cache
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfoInputs.cache
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfo.cs
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.csproj.CoreCompileInputs.cache
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.dll
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\refint\OldSystem.dll
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.pdb
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\OldSystem.genruntimeconfig.cache
+E:\OneT Projects\OldSystem\obj\Debug\net6.0\ref\OldSystem.dll
+D:\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.deps.json
+D:\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.runtimeconfig.json
+D:\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.dll
+D:\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.pdb
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.csproj.AssemblyReference.cache
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfoInputs.cache
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfo.cs
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.csproj.CoreCompileInputs.cache
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.dll
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\refint\OldSystem.dll
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.pdb
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.genruntimeconfig.cache
+D:\WarshahTechV2\OldSystem\obj\Debug\net6.0\ref\OldSystem.dll
+E:\15-9-2024\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.deps.json
+E:\15-9-2024\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.runtimeconfig.json
+E:\15-9-2024\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.dll
+E:\15-9-2024\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.pdb
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.csproj.AssemblyReference.cache
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfoInputs.cache
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfo.cs
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.csproj.CoreCompileInputs.cache
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.dll
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\refint\OldSystem.dll
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.pdb
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.genruntimeconfig.cache
+E:\15-9-2024\WarshahTechV2\OldSystem\obj\Debug\net6.0\ref\OldSystem.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.deps.json
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.runtimeconfig.json
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\bin\Debug\net6.0\OldSystem.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.csproj.AssemblyReference.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfoInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.AssemblyInfo.cs
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.csproj.CoreCompileInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.sourcelink.json
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\refint\OldSystem.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\OldSystem.genruntimeconfig.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\OldSystem\obj\Debug\net6.0\ref\OldSystem.dll

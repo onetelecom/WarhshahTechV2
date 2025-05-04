@@ -1,0 +1,39 @@
+E:\OneT Projects\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\OneT Projects\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\OneT Projects\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\OneT Projects\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+E:\15-9-2024\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\15-9-2024\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\15-9-2024\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\15-9-2024\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.sourcelink.json
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

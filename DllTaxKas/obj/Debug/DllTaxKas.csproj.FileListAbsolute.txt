@@ -1,0 +1,84 @@
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\DllTaxKas.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\DllTaxKas.pdb
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\BouncyCastle.Crypto.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\IKVM.Runtime.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\itextsharp.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\itextsharp.xmlworker.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\Newtonsoft.Json.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\saxon-he-10.8.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\saxon-he-api-10.8.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\ZatcaIntegrationSDK.dll
+D:\BSE\KsaEInvoice\DllTaxKas\bin\Debug\itextsharp.xml
+D:\BSE\KsaEInvoice\DllTaxKas\obj\Debug\DllTaxKas.csproj.AssemblyReference.cache
+D:\BSE\KsaEInvoice\DllTaxKas\obj\Debug\DllTaxKas.csproj.CoreCompileInputs.cache
+D:\BSE\KsaEInvoice\DllTaxKas\obj\Debug\DllTaxKas.csproj.CopyComplete
+D:\BSE\KsaEInvoice\DllTaxKas\obj\Debug\DllTaxKas.dll
+D:\BSE\KsaEInvoice\DllTaxKas\obj\Debug\DllTaxKas.pdb
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\DllTaxKas.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\DllTaxKas.pdb
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\IKVM.Runtime.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\saxon-he-10.8.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\saxon-he-api-10.8.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\bin\Debug\ZatcaIntegrationSDK.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\obj\Debug\DllTaxKas.csproj.AssemblyReference.cache
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\obj\Debug\DllTaxKas.csproj.CoreCompileInputs.cache
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\obj\Debug\DllTaxKas.csproj.Up2Date
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\obj\Debug\DllTaxKas.dll
+C:\Users\A\Downloads\OneT Projects\DllTaxKas\obj\Debug\DllTaxKas.pdb
+D:\WarshahTechV2\DllTaxKas\bin\Debug\DllTaxKas.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\DllTaxKas.pdb
+D:\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.Runtime.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\Newtonsoft.Json.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\saxon-he-10.8.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\saxon-he-api-10.8.dll
+D:\WarshahTechV2\DllTaxKas\bin\Debug\ZatcaIntegrationSDK.dll
+D:\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.AssemblyReference.cache
+D:\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.CoreCompileInputs.cache
+D:\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.Up2Date
+D:\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.dll
+D:\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.pdb
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\DllTaxKas.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\DllTaxKas.pdb
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.Runtime.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\Newtonsoft.Json.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\saxon-he-10.8.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\saxon-he-api-10.8.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\bin\Debug\ZatcaIntegrationSDK.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.AssemblyReference.cache
+E:\15-9-2024\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.CoreCompileInputs.cache
+E:\15-9-2024\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.CopyComplete
+E:\15-9-2024\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.dll
+E:\15-9-2024\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\DllTaxKas.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\DllTaxKas.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\IKVM.Runtime.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\saxon-he-10.8.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\saxon-he-api-10.8.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\bin\Debug\ZatcaIntegrationSDK.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.AssemblyReference.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.CoreCompileInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.csproj.Up2Date
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\DllTaxKas\obj\Debug\DllTaxKas.pdb

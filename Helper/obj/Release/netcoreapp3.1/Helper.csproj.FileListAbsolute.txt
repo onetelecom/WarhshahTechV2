@@ -1,0 +1,66 @@
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\Helper.deps.json
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\Helper.dll
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\Helper.pdb
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\BL.dll
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\DL.dll
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\BL.pdb
+E:\OneT Projects\Helper\bin\Release\netcoreapp3.1\DL.pdb
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.csproj.AssemblyReference.cache
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.AssemblyInfo.cs
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.csproj.CopyComplete
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.dll
+E:\OneT Projects\Helper\obj\Release\netcoreapp3.1\Helper.pdb
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\Helper.deps.json
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\Helper.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\Helper.pdb
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\BL.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DL.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\BL.pdb
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DL.pdb
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.csproj.AssemblyReference.cache
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.AssemblyInfo.cs
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.csproj.CopyComplete
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.dll
+E:\15-9-2024\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.pdb
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DllTaxKas.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\ZatcaIntegrationSDK.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\saxon-he-api-10.8.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\saxon-he-10.8.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.Runtime.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+E:\15-9-2024\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DllTaxKas.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\Helper.deps.json
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\Helper.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\Helper.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\BL.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DL.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DllTaxKas.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\ZatcaIntegrationSDK.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\saxon-he-api-10.8.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\saxon-he-10.8.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.Runtime.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\BL.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DllTaxKas.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\bin\Release\netcoreapp3.1\DL.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.csproj.AssemblyReference.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.AssemblyInfo.cs
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.sourcelink.json
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.csproj.Up2Date
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\Helper\obj\Release\netcoreapp3.1\Helper.pdb

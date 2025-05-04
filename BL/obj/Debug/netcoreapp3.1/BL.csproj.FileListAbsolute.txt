@@ -1,0 +1,53 @@
+E:\OneT Projects\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+E:\OneT Projects\BL\bin\Debug\netcoreapp3.1\BL.dll
+E:\OneT Projects\BL\bin\Debug\netcoreapp3.1\BL.pdb
+E:\OneT Projects\BL\bin\Debug\netcoreapp3.1\DL.dll
+E:\OneT Projects\BL\bin\Debug\netcoreapp3.1\DL.pdb
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.dll
+E:\OneT Projects\BL\obj\Debug\netcoreapp3.1\BL.pdb
+D:\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+D:\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.dll
+D:\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.pdb
+D:\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\DL.dll
+D:\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.Up2Date
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.dll
+D:\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.pdb
+E:\15-9-2024\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+E:\15-9-2024\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.dll
+E:\15-9-2024\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.pdb
+E:\15-9-2024\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\DL.dll
+E:\15-9-2024\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\DL.pdb
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.dll
+E:\15-9-2024\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\BL.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.sourcelink.json
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.csproj.Up2Date
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.dll
+D:\Projects\WarchaTech22025\WarshahTechV2\BL\obj\Debug\netcoreapp3.1\BL.pdb
